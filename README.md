@@ -1,4 +1,5 @@
 # Ensaio de Machine Learning
+![image](https://github.com/GuiGrecov/ensaiomachinelearning/assets/94385953/17f13472-8405-42b4-8ad9-74f8009b3343)
 
 # Problema de Negócio
 
